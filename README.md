@@ -1,2 +1,1 @@
-# RustFont
-A GUI library for rust-Open-Source-Developers interested in frontend
+**RustFont** is an open-source GUI library designed for Rust developers passionate about frontend development. This library bridges the gap between traditional web development and the power of WebAssembly, combining React-like UI design, advanced animations, and modern Rust performance. Whether you're creating visually stunning interfaces or building interactive applications, RustFont empowers you to flex your frontend skills with Rust and WebAssembly.
